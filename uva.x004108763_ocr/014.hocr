@@ -1,0 +1,26 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/54/uva.x004108763/014.png"; bbox 0 0 4124 6542; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 218 2179 3488 2413">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 218 2179 3488 2413">
+     <span class='ocr_line' id='line_1_1' title="bbox 218 2179 3488 2413; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 218 2207 338 2413; x_wconf 88' lang='lat' dir='ltr'><strong>J</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 351 2199 1087 2412; x_wconf 84' lang='lat' dir='ltr'><strong>OANN</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1105 2197 1358 2405; x_wconf 87' lang='lat' dir='ltr'><strong>IS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1540 2179 3488 2411; x_wconf 78' lang='lat' dir='ltr'><strong>CHRYSOSTOMI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1045 2707 2653 2773">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1045 2707 2653 2773">
+     <span class='ocr_line' id='line_1_2' title="bbox 1045 2707 2653 2773; baseline 0.001 -3"><span class='ocrx_word' id='word_1_5' title='bbox 1045 2707 1648 2771; x_wconf 72' lang='lat' dir='ltr'><strong>ARCHIEPISCOPI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1700 2708 2653 2773; x_wconf 78' lang='lat' dir='ltr'><strong>CONSTANTINOPOLITANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 655 3071 3063 3238">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 655 3071 3063 3238">
+     <span class='ocr_line' id='line_1_3' title="bbox 655 3071 3063 3238; baseline 0.002 -7"><span class='ocrx_word' id='word_1_7' title='bbox 655 3077 1875 3236; x_wconf 81' lang='lat' dir='ltr'><strong>HOMILIARUM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1954 3071 2155 3232; x_wconf 88' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2214 3082 3063 3238; x_wconf 86' lang='lat' dir='ltr'><strong>GENESIM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1334 3559 2378 3677">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1334 3559 2378 3677">
+     <span class='ocr_line' id='line_1_4' title="bbox 1334 3559 2378 3677; baseline -0.001 -4"><span class='ocrx_word' id='word_1_10' title='bbox 1334 3559 2378 3677; x_wconf 83' lang='lat' dir='ltr'><strong>CONTINUATIO.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>

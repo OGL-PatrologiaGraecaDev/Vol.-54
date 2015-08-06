@@ -1,0 +1,38 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/54/nnc1.0046978518/010.png"; bbox 0 0 4084 6356; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1462 1758 2287 1823">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1462 1758 2287 1823">
+     <span class='ocr_line' id='line_1_1' title="bbox 1462 1758 2287 1823; baseline -0.005 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1462 1759 1713 1821; x_wconf 77' lang='lat' dir='ltr'><strong>SANCTI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1745 1758 1996 1823; x_wconf 78' lang='lat' dir='ltr'><strong>PATRIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2031 1758 2287 1819; x_wconf 80' lang='lat' dir='ltr'><strong>NOSTRI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 252 2110 3501 2357">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 252 2110 3501 2357">
+     <span class='ocr_line' id='line_1_2' title="bbox 252 2110 3501 2357; baseline -0.002 -8"><span class='ocrx_word' id='word_1_4' title='bbox 252 2142 378 2349; x_wconf 91' lang='lat' dir='ltr'><strong>J</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 394 2134 1114 2357; x_wconf 85' lang='lat' dir='ltr'><strong>OANN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1129 2132 1385 2354; x_wconf 87' lang='lat' dir='ltr'><strong>IS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1563 2110 3501 2348; x_wconf 76' lang='lat' dir='ltr'><strong>CHRYSOSTOMI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1066 2644 2898 2714">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1066 2644 2898 2714">
+     <span class='ocr_line' id='line_1_3' title="bbox 1066 2644 2898 2714; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 1066 2645 1676 2714; x_wconf 69' lang='lat' dir='ltr'><strong>ARCHIEPISCOPI</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1723 2644 2675 2713; x_wconf 75' lang='lat' dir='ltr'><strong>CONSTANTINOPOLITANI</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2887 2661 2898 2674; x_wconf 86' lang='lat'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 676 3017 3080 3187">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 676 3017 3080 3187">
+     <span class='ocr_line' id='line_1_4' title="bbox 676 3017 3080 3187; baseline 0 -9"><span class='ocrx_word' id='word_1_11' title='bbox 676 3017 1901 3186; x_wconf 80' lang='lat' dir='ltr'><strong>HOMILIARUM</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1974 3020 2179 3179; x_wconf 88' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2233 3017 3080 3187; x_wconf 85' lang='lat' dir='ltr'><strong>GENESIM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1355 3501 2743 3627">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1355 3501 2743 3627">
+     <span class='ocr_line' id='line_1_5' title="bbox 1355 3501 2743 3627; baseline -0.004 -2"><span class='ocrx_word' id='word_1_14' title='bbox 1355 3501 2400 3627; x_wconf 85' lang='lat' dir='ltr'><strong>CONTINUATIO.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2742 3504 2743 3507; x_wconf 6' lang='grc' dir='ltr'>γ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1562 5996 2101 6141">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1562 5996 2101 6141">
+     <span class='ocr_line' id='line_1_6' title="bbox 1562 5996 2101 6141; baseline -0.059 1"><span class='ocrx_word' id='word_1_16' title='bbox 1562 6018 1751 6141; x_wconf 62' lang='grc' dir='ltr'><strong>ῗὶῒ</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1793 5996 2101 6127; x_wconf 57' lang='lat'>688’</span> 
+     </span>
+    </p>
+   </div>
+  </div>
